@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Yerkebulan 👋
 
-<!--
-**delt-kz/delt-kz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an 18-year-old student from Astana, Kazakhstan 🇰🇿.  
+Currently studying at **Astana IT University** and enrolled in the **Yandex Practicum** course, where I do most of my projects and grow my skills.
 
-Here are some ideas to get you started:
+- 🔭 I’m focused on backend programming with **Spring Boot**
+- 💡 Passionate about coding and continuous learning
+- 🌱 Always exploring new tech and best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/delt-kz)
+
+---
+
+Feel free to check out my projects or reach out!

@@ -12,4 +12,3 @@ Currently studying at **Astana IT University** and enrolled in the **Yandex Prac
 
 ---
 
-Feel free to check out my projects or reach out!

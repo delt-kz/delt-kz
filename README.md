@@ -7,7 +7,7 @@ Java Backend Developer (Intern) | Software Engineering student at Astana IT Univ
 — Working on medical information system (backend)  
 — Git, Docker, basic frontend (HTML/CSS)
 
-Currently focusing on backend architecture, clean code and production-ready systems.
+Currently focusing on Spring Security, backend architecture, clean code and production-ready systems.
 
 GitHub contains study + practice projects.
 

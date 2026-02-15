@@ -1,14 +1,18 @@
 # Hi, I'm Yerkebulan 👋
 
-I'm an 18-year-old student from Astana, Kazakhstan 🇰🇿.  
-Currently studying at **Astana IT University** and enrolled in the **Yandex Practicum** course, where I do most of my projects and grow my skills.
+Java Backend Developer (Intern) | Software Engineering student at Astana IT University
 
-- 🔭 I’m focused on backend programming with **Spring Boot**
-- 💡 Passionate about coding and continuous learning
-- 🌱 Always exploring new tech and best practices
+— Java, Spring Boot, REST APIs, PostgreSQL, JPA/Hibernate  
+— Experience with monolith → microservices migration  
+— Working on medical information system (backend)  
+— Git, Docker, basic frontend (HTML/CSS)
+
+Currently focusing on backend architecture, clean code and production-ready systems.
+
+GitHub contains study + practice projects.
+
 
 📫 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/delt-kz)
 
----
 

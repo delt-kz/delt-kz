@@ -3,7 +3,7 @@
 Software Engineering 2 course student (Astana IT University).<br>Java backend developer.<br>Работаю с Java и Spring-экосистемой: Spring Boot, Spring Data, Spring Security. Разрабатываю REST API, работаю с PostgreSQL и JPA/Hibernate. Понимаю принципы ООП, структуры данных и основы архитектуры backend-приложений.
 Есть опыт участия в разработке медицинской информационной системы: API, работа с базой данных, код-ревью, взаимодействие в команде и миграция части функционала с монолита на микросервисную архитектуру. Прошёл курс Яндекс Практикума по Java. 
 
-Сейчас работаю над pet-проектами и глубже изучаю Spring Security
+Сейчас работаю над пет проектом [java-explore-with-me](https://github.com/delt-kz/java-explore-with-me) и глубже изучаю Spring Security
 
 GitHub содержит учебные и практические проекты.
 
